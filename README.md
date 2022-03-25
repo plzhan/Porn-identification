@@ -44,6 +44,7 @@ from SZ_DpL.PI_resnet34 import get_PI_model
 
 # here, the weights have to be download on github yourself...
 model = get_PI_model(image_size=224, class_num=5, load_weights=False)  #  set load_weights False, or you get ERROR
+model.load_weights(path)  # path of the weights.
 
 def Input_One_pics(image_path):
     """
@@ -57,6 +58,7 @@ def Input_One_pics(image_path):
     return input_arr
    
 data = Input_One_pics(image_path)
+
 model.predict(data)  # here input one img_array and its dim has to be [1, 224, 224, 3], 3 means three channels.  
 ```
 
