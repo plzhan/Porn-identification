@@ -45,6 +45,10 @@ from SZ_DpL.PI_resnet34 import get_PI_model
 # here, the weights have to be download on github yourself...
 model = get_PI_model(image_size=224, class_num=5, load_weights=False)  #  set load_weights False, or you get ERROR
 model.load_weights(path)  # path of the weights.
+# weights url
+# url = https://pan.baidu.com/s/1Qg_ymlFj7ebUx8VUicHfWA
+# Extraction Code = 3v7p
+
 
 def Input_One_pics(image_path):
     """
