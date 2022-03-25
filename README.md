@@ -22,10 +22,10 @@ The **fourth** category contains cartoon pornography
 
 The **fifth** category contains pornography
 
-**The command may be wrong, please check the github link**
 
+### install the package
 ```
-! pip install -i https://test.pypi.org/simple/ SZ-DpL``` to install the package
+! pip install -i https://test.pypi.org/simple/ SZ-DpL 
 ```
 
 ### Instruction
