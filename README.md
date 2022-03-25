@@ -31,7 +31,9 @@ The **fifth** category contains pornography
 ### Instruction
 
 Total params: 21,868,677
+
 Trainable params: 21,851,653
+
 Non-trainable params: 17,024
 ```
 import numpy as np
