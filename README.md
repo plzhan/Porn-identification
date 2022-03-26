@@ -36,7 +36,7 @@ Trainable params: 21,851,653
 
 Non-trainable params: 17,024
 
-Validation Set Accuracy: about 90%
+Validation DataSet Accuracy: about 90%
 ```
 import numpy as np
 import tensorflow as tf
