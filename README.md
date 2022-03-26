@@ -12,7 +12,7 @@ The project provides trained neural network models for image classification (for
 
 We provide small models for **image identification**(5 classes: including Porn Identification)
 
-The **first** category includes landscape and humanities
+The **first** category includes landscape, humanities, fruits and etc. 
 
 The **second** category contains cartoon category
 
