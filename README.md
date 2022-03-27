@@ -42,7 +42,7 @@ import numpy as np
 import tensorflow as tf
 from SZ_DpL.PI_resnet34 import get_PI_model
 
-# here, the weights have to be download on github yourself...
+# here, the weights have to be download on Baidu Netdisk yourself...
 model = get_PI_model(image_size=224, class_num=5, load_weights=False)  #  set load_weights False, or you get ERROR
 model.load_weights(path)  # path of the weights.
 # weights url
