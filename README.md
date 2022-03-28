@@ -28,7 +28,7 @@ The **fifth** category contains pornography
 ! pip install -i https://test.pypi.org/simple/ SZ-DpL 
 ```
 
-### Instruction
+### Usage
 
 Total params: 21,868,677
 
