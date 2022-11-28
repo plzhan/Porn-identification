@@ -1,3 +1,4 @@
+GDUT fuxiban 3120005313 机器学习
 # SZ_DpL
 This is an open source deep learning model. You can use the weights already provided by this model for free.
 The model is allowed to be modified at will and any non-commercial use, this account does not assume any joint and several responsibility
